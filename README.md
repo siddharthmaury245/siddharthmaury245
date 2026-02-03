@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=orange,white,green&height=300&section=header&text=Siddharth%20Maury&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Founder%20of%20NEXACORE%20%7C%20Software%20Architect&descAlignY=55&descAlign=50&fontColor=navy&reversal=false" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF9933,FFFFFF,138808&height=300&section=header&text=Siddharth%20Maury&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Founder%20of%20NEXACORE%20%7C%20Software%20Architect&descAlignY=55&descAlign=50&fontColor=000080" />
 </div>
 
 <br>
