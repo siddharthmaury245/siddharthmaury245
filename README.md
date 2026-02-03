@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9933,FFFFFF,138808&height=300&section=header&text=Siddharth%20Maury&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Founder%20of%20NEXACORE%20%7C%20Software%20Architect&descAlignY=55&descAlign=50&fontColor=000080" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9933,FFFFFF,138808&height=300&section=header&text=Siddharth%20Maury&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Founder%20of%20NEXACORE%20%7C%20Software%20Architect&descAlignY=55&descAlign=50&fontColor=000080&v=2" />
 </div>
 
 <br>
@@ -23,16 +23,6 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D6?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharthmaury245&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthmaury245&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
 </div>
 
 <br>
